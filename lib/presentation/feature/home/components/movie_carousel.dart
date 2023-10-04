@@ -94,7 +94,6 @@ Widget _buildLoadingShimmer() {
         ),
       ),
       options: CarouselOptions(
-        //... your carousel options ...
 
         height: 350,
         aspectRatio: 16 / 9,
