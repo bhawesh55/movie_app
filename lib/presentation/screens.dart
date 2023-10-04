@@ -1,0 +1,1 @@
+export 'package:movie_app_getx/presentation/feature/home/home.screen.dart';
